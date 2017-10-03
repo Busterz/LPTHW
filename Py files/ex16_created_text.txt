@@ -1,0 +1,3 @@
+This file is freshly created.
+Then it's cleared to ensure it's empty.
+Now it's filled with these fresh lines.
